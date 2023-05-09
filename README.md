@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-Hi there!<br>I'm Emine.<br>I'm currently learning React Native <br>I'm looking to collaborate on your React native projects<br>Ask me about react native, react, java, spring boot<br><br>Currently working mostly with React Native to build mobile apps. I am more focused in back-end technologies but also have useful experience with front-end technologies. Always trying to apply the concepts and the experience from Computer science in softwares in order to solve specific problems and make life easier.
+<br>I'm Emine.<br>I'm currently learning React Native <br>I'm looking to collaborate on your React native projects<br>Ask me about react native, react, java, spring boot<br><br>Currently working mostly with React Native to build mobile apps. I am more focused in back-end technologies but also have useful experience with front-end technologies. Always trying to apply the concepts and the experience from Computer science in softwares in order to solve specific problems and make life easier.
 
 
 ## 🌐 Socials:
